@@ -4,6 +4,9 @@
 <br> Someone said I am a verified bot developer on discord <br/>
 <img align="left" alt="ZeroSync | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 [Add me on Discord!<img align="left" alt="0_0#6666 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/discord.svg" />](https://dsc.bio/Zero)
+
+
+/n
 [Subscribe on yt?](https://www.youtube.com/channel/UCF9E-xef9jL9QgziZRDHKKQ)
 
 
