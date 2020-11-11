@@ -30,6 +30,6 @@ And more?
 
 ---
 
-<img align="left" alt="Zero's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ZeroDiscord&show_icons=true" width="416px"/>
+![ZeroDiscord's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeroDiscord&show_icons=true&theme=gruvbox)>
 <img align="center" alt="Zero's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroDiscord&langs_count=8&layout=compact" />
 
