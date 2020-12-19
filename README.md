@@ -1,5 +1,5 @@
-# Zero
-## Hello! I'm Zero! 👋
+# Zero Here!
+## Hello! I'm Zero! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <br> Someone said I am a verified bot developer on discord <br/>
 <img align="left" alt="ZeroSync | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
