@@ -9,12 +9,10 @@
 
 
 ---
-
+<img align="left" src="https://discord.c99.nl/widget/theme-2/603948445362946084.png"><br>
 ![](https://komarev.com/ghpvc/?username=ZeroDiscord&color=red)
-![Discord](https://discord.c99.nl/widget/theme-2/603948445362946084.png)
 
 ---
 
 ![ZeroDiscord's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeroDiscord&show_icons=true&theme=gruvbox)
-<img align="center" alt="Zero's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroDiscord&theme=radicle&langs_count=8&layout=compact" />
-
+<img alt="Zero's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroDiscord&theme=radical&langs_count=8&layout=compact"/>
