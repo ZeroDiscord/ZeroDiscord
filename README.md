@@ -10,7 +10,7 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=ZeroDiscord&color=black)
+![](https://komarev.com/ghpvc/?username=ZeroDiscord&color=red)
 
 ---
 
