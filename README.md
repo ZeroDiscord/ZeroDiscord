@@ -9,9 +9,7 @@
 
 
 ---
-<img align="left" src="https://discord.c99.nl/widget/theme-2/603948445362946084.png"><br>
 ![](https://komarev.com/ghpvc/?username=ZeroDiscord&color=red)
-
 ---
 
 ![ZeroDiscord's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeroDiscord&show_icons=true&theme=gruvbox)
