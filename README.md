@@ -1,20 +1,46 @@
-# Zero Here!
-## Hello! I'm Zero! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-<br> Someone said I am a verified bot developer on discord <br/>
-
-
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.youtube.com/channel/UCF9E-xef9jL9QgziZRDHKKQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="ZeroSync | YouTube" height="40" width="40" /></a>   <b> Youtube </b>
+<h2 align="center">
+    Hello there! I am <strong>Zero</strong>. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h2>
+<p align="center">
+    I am a CS Student & Youtuber who aspires to be a software developer in the near future, I mainly work as a developer on a VoIP platform called <strong> <a href="https://discord.com">Discord</a></strong>
 <br>
-<a href="https://discord.com/users/603948445362946084ttps://dsc.bio/Zero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/discord.svg" alt="0_0#6666 | Discord" height="40" width="40" /></a>    <b> Discord </b>
+<br>
+<a href="https://github.com/ZeroDiscord/">
+        <img src="https://komarev.com/ghpvc/?username=ZeroDiscord&color=red" />
+  </a> 
+</p>
+&nbsp;
+<p align="center">
+    <a href="https://github.com/ZeroDiscord/">
+        <img src="./assets/icons/other/github-solid.svg/" width="25px" />
+    </a>
+    &nbsp;
+    <a href="https://discord.com/users/603948445362946084">
+        <img src="./assets/icons/other/discord-solid.svg/" width="25px" />
+    </a>
+    &nbsp;
+    <a href="https://twitter.com/RestInPeaceZero/">
+        <img src="./assets/icons/other/twitter-solid.svg/" width="25px" />
+    </a>
+    &nbsp;
+    <a href="https://www.youtube.com/c/ZeroSync">
+        <img src="./assets/icons/other/youtube-solid.svg/" width="25px" />
+    </a>
+    
+</p>
+<hr/>
+<p align="center">
+    <a href="https://github.com/ZeroDiscord/">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=ZeroDiscord&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+  </a> 
+  <a href="https://github.com/ZeroDiscord/">
+        <img src="https://github-readme-stats.vercel.app/api?username=ZeroDiscord&show_icons=true&theme=gruvbox" />
+  </a> 
+<br>
+<a href="https://github.com/ZeroDiscord/">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroDiscord&theme=gruvbox&langs_count=8&layout=compact" />
+  </a> 
+<br>
 </p>
 
 
----
-![](https://komarev.com/ghpvc/?username=ZeroDiscord&color=red)
----
-
-![ZeroDiscord's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeroDiscord&show_icons=true&theme=gruvbox)
-<img alt="Zero's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroDiscord&theme=radical&langs_count=8&layout=compact"/>
