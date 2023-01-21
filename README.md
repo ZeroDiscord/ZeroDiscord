@@ -40,12 +40,12 @@
   </a> 
 <br>
   <a href="https://github.com/ZeroDiscord/">
-        <img src="https://github-readme-stats-ruby-one.vercel.app/api?username=ZeroDiscord&show_icons=true&theme=gruvbox" />
+       <img src="https://github-readme-stats.vercel.app/api?username=ZeroDiscord&show_icons=true&theme=gruvbox" />
   </a> 
 <br>
 <br>
 <a href="https://github.com/ZeroDiscord/">
-        <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=ZeroDiscord&theme=gruvbox&langs_count=8&layout=compact" />
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroDiscord&theme=gruvbox&langs_count=8&layout=compact" />
   </a> 
 </p>
 
